@@ -66,3 +66,7 @@ export function fixArrKey(arr = [], name = 'id') {
   )
 }
  ```
+### 2 
+render: (text, record, index) => {}
+
+参数分别为当前行的值，当前行数据，行索引
